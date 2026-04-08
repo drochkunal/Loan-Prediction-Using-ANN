@@ -86,3 +86,8 @@ Deploy using Streamlit
 
 👤 Author
 Kunal Droch
+
+
+## Dataset
+https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
